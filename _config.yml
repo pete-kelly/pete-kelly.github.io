@@ -22,11 +22,11 @@ repository               : "pete-kelly/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Pete Kelly"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Data science/analysis"
+  location         : "Connecticut, USA"
+  employer         : # "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
 
